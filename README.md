@@ -1,4 +1,4 @@
-<h2>Console-Based Banking System</h2><br>
+<h2>EasyBank Console</h2><br>
 A modular console-based banking system built with Java that simulates core banking operations like
 account creation, deposit, withdrawal, and balance checking. This project leverages object-oriented
 programming principles and JDBC for seamless integration with a MySQL database.
@@ -70,7 +70,8 @@ CheckBalance	Displays ---> current balance	checkBalance()<br>
 
  
 2.If you select open account option you have enter name, phone number, email, aadhar number and you will get return with a unique account number and other details like below<br>
- <img width="716" height="500" alt="image" src="https://github.com/user-attachments/assets/90f9c222-569b-4771-9d3a-0b28e654b750" /><br>
+![WhatsApp Image 2025-07-24 at 19 11 27_76d8d325](https://github.com/user-attachments/assets/0adb7385-a733-46df-833d-d564d2edc6f8)
+<br>
 
 3.If you select yes then operations will be reshowed like what you see above like<br>
  <img width="353" height="173" alt="image" src="https://github.com/user-attachments/assets/4c21fe34-31eb-4f65-8fbe-8dc463816741" /><br>
@@ -79,17 +80,21 @@ CheckBalance	Displays ---> current balance	checkBalance()<br>
  <img width="547" height="126" alt="image" src="https://github.com/user-attachments/assets/126678e2-dc6c-46cb-9fe9-a063b0a5091a" /><br>
 
 5.want to withdraw?<br>
-<img width="806" height="347" alt="image" src="https://github.com/user-attachments/assets/108f97f6-0bb2-4631-bb1a-9885b85853c3" /><br>
+![WhatsApp Image 2025-07-24 at 19 14 43_caae4b28](https://github.com/user-attachments/assets/162e2bd8-5055-46d2-a895-e0fc0855b753)
+<br>
 
 
 6.want to diposit?<br>
- <img width="795" height="442" alt="image" src="https://github.com/user-attachments/assets/e7e0e845-60dc-46a5-83fd-b2e8de576012" /><br>
+![WhatsApp Image 2025-07-24 at 19 16 55_f6188f0f](https://github.com/user-attachments/assets/565a64c9-c8e9-44ba-99eb-80c7483c5a93)
+<br>
 
 
 7.want to check Balance?<br>
- <img width="660" height="417" alt="image" src="https://github.com/user-attachments/assets/9567b085-d121-46b5-898c-4c28cf2ad313" /><br>
+ ![WhatsApp Image 2025-07-24 at 19 17 33_ef0fe070](https://github.com/user-attachments/assets/18c4618c-e11e-49a1-9496-438b40343510)
+<br>
 
 
 8.Exit<br>
- <img width="567" height="314" alt="image" src="https://github.com/user-attachments/assets/4af73531-5a33-407f-a58a-0995da2f8018" /><br>
+ ![WhatsApp Image 2025-07-24 at 19 18 11_bba1d4aa](https://github.com/user-attachments/assets/9b7dcab6-67cf-4bc0-8d99-55f79c76efa0)
+<br>
 
