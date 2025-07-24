@@ -69,7 +69,7 @@ CheckBalance	Displays ---> current balance	checkBalance()<br>
  <img width="353" height="173" alt="image" src="https://github.com/user-attachments/assets/9f322f17-7854-44f6-bbd3-f226b5f35f82" /><br>
 
  
-2. If you select open account option you have enter name, phone number, email, aadhar number and you will get return with a unique account number and other details like below<br>
+2.If you select open account option you have enter name, phone number, email, aadhar number and you will get return with a unique account number and other details like below<br>
  <img width="716" height="500" alt="image" src="https://github.com/user-attachments/assets/90f9c222-569b-4771-9d3a-0b28e654b750" /><br>
 
 3.If you select yes then operations will be reshowed like what you see above like<br>
